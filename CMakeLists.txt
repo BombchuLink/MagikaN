@@ -4,6 +4,7 @@ project(Magika-N LANGUAGES C CXX)
 
 add_executable(Magika-N
 	"main.c"
+	"menu.c"
 )
 
 set_target_properties(Magika-N PROPERTIES
